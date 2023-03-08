@@ -1,0 +1,7 @@
+{
+  "type": "AppSource App",
+  "templateUrl": "https://github.com/businesscentralapps/tmpi6OgOu-AppSource@main",
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "MicrosoftTelemetryConnectionString": ""
+}
