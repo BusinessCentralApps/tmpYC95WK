@@ -6,5 +6,6 @@
     "cus"
   ],
   "country": "us",
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "repoVersion": "3.0"
 }
