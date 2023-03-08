@@ -4,5 +4,6 @@
   "AppSourceCopMandatoryAffixes": [
     "cus"
   ],
-  "testFolders": []
+  "testFolders": [],
+  "repoVersion": "2.0"
 }
